@@ -8,10 +8,6 @@ Header banner
 
 </div>
 
-Typing SVG showcasing core data skills
-
-GitHub Email Location
-
 📊 About Me
 $ python about_me.py
 
@@ -99,5 +95,4 @@ Huzaifa's GitHub Stats Top Languages
 Email GitHub
 
 ✓ Thanks for stopping by — open to Data Analytics Internship opportunities 👋
-
 Profile Views
