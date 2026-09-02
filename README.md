@@ -2,12 +2,12 @@
 
 [![Huzaifa Zahid Khan — Aspiring Data Analyst](https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:2EAD33&height=220&section=header&text=Huzaifa%20Zahid%20Khan&fontSize=42&fontColor=FFFFFF&fontAlignY=36&animation=fadeIn&desc=Aspiring%20Data%20Analyst%20%7C%20Data%20Visualisation%20%26%20Automation&descAlignY=58&descSize=15&descColor=FFFFFF)](https://github.com/huzaifa1183)
 
-</div>
+</div> <center>
 
 [![Typing SVG showcasing core data skills](https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&pause=1000&color=2EAD33&center=true&vCenter=true&width=650&lines=Data+Cleaning+%2B+Statistical+Analysis;Dashboard+Creation+with+Power+BI+%2B+Tableau;Python+%2B+R+for+Data+Analysis;Turning+Raw+Data+Into+Business+Insights)](https://github.com/huzaifa1183)
 
 [![GitHub](https://img.shields.io/badge/-huzaifa1183-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/huzaifa1183) [![Email](https://img.shields.io/badge/Email-Say%20Hello-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ziaan1983@gmail.com) [![Location](https://img.shields.io/badge/Location-Mumbai%2C%20India-2EAD33?style=for-the-badge&logo=googlemaps&logoColor=white)](https://github.com/huzaifa1183)
-
+ </center>
 ## 📊 About Me
 
 ```
