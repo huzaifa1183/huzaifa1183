@@ -1,10 +1,6 @@
 <div align="center">
 
-[![Header banner](https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:2EAD33&height=220&section=header&animation=fadeIn)](https://github.com/huzaifa1183)
-
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=800&size=42&duration=3000&pause=800&color=2EAD33&center=true&vCenter=true&width=700&height=70&lines=Huzaifa+Zahid+Khan" alt="Animated name: Huzaifa Zahid Khan" style="margin-top:-190px;" />
-
-<sub>Aspiring Data Analyst · Data Visualisation & Automation</sub>
+[![Huzaifa Zahid Khan — Aspiring Data Analyst](https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:2EAD33&height=220&section=header&text=Huzaifa%20Zahid%20Khan&fontSize=42&fontColor=FFFFFF&fontAlignY=36&animation=fadeIn&desc=Aspiring%20Data%20Analyst%20%7C%20Data%20Visualisation%20%26%20Automation&descAlignY=58&descSize=15&descColor=FFFFFF)](https://github.com/huzaifa1183)
 
 </div>
 
