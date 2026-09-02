@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:2EAD33&height=220&section=header&text=Nikil%20Edwin%20Varghese&fontSize=40&fontColor=FFFFFF&fontAlignY=36&animation=fadeIn&desc=Entry-Level%20QA%20Automation%20Engineer&descAlignY=58&descSize=16&descColor=E6EDF3" width="100%" alt="Nikil Edwin Varghese — Entry-Level QA Automation Engineer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:2EAD33&height=220&section=header&text=Huzaifa%20Zahid%20kKhan&fontSize=40&fontColor=FFFFFF&fontAlignY=36&animation=fadeIn&desc=Entry-Level%20QA%20Automation%20Engineer&descAlignY=58&descSize=16&descColor=E6EDF3" width="100%" alt="Nikil Edwin Varghese — Entry-Level QA Automation Engineer"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2EAD33&center=true&vCenter=true&width=650&lines=Playwright+%7C+JavaScript+%7C+TypeScript;Manual+%2B+Automation+%2B+API+Testing;Cross-Browser+Testing+%26+Bug+Reporting;Building+Test+Suites+for+Full-Stack+Apps" alt="Typing SVG showcasing core testing skills"/>
 
