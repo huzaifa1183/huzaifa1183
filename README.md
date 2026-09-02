@@ -1,13 +1,19 @@
 <div align="center">
 
-[![Huzaifa Zahid Khan — Aspiring Data Analyst](https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:2EAD33&height=220&section=header&text=Huzaifa%20Zahid%20Khan&fontSize=42&fontColor=FFFFFF&fontAlignY=36&animation=fadeIn&desc=Aspiring%20Data%20Analyst%20%7C%20Data%20Visualisation%20%26%20Automation&descAlignY=58&descSize=15&descColor=FFFFFF)](https://github.com/huzaifa1183)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:2EAD33&height=220&section=header&text=Nikil%20Edwin%20Varghese&fontSize=40&fontColor=FFFFFF&fontAlignY=36&animation=fadeIn&desc=Entry-Level%20QA%20Automation%20Engineer&descAlignY=58&descSize=16&descColor=E6EDF3" width="100%" alt="Nikil Edwin Varghese — Entry-Level QA Automation Engineer"/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2EAD33&center=true&vCenter=true&width=650&lines=Playwright+%7C+JavaScript+%7C+TypeScript;Manual+%2B+Automation+%2B+API+Testing;Cross-Browser+Testing+%26+Bug+Reporting;Building+Test+Suites+for+Full-Stack+Apps" alt="Typing SVG showcasing core testing skills"/>
+
+<br/><br/>
+
+<a href="https://github.com/nikilvarghese"><img src="https://img.shields.io/badge/GitHub-nikilvarghese-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+<a href="https://nikil-portfolio-eight.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-Visit%20Site-2EAD33?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
+<a href="https://linkedin.com/in/nikil-varghese-956281255"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="mailto:nikiledwin6@gmail.com"><img src="https://img.shields.io/badge/Email-Say%20Hello-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 
 </div>
 
-[![Typing SVG showcasing core data skills](https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&pause=1000&color=2EAD33&center=true&vCenter=true&width=650&lines=Data+Cleaning+%2B+Statistical+Analysis;Dashboard+Creation+with+Power+BI+%2B+Tableau;Python+%2B+R+for+Data+Analysis;Turning+Raw+Data+Into+Business+Insights)](https://github.com/huzaifa1183)
-
-[![GitHub](https://img.shields.io/badge/-huzaifa1183-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/huzaifa1183) [![Email](https://img.shields.io/badge/Email-Say%20Hello-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ziaan1983@gmail.com) [![Location](https://img.shields.io/badge/Location-Mumbai%2C%20India-2EAD33?style=for-the-badge&logo=googlemaps&logoColor=white)](https://github.com/huzaifa1183)
-
+<br/>
 ## 📊 About Me
 
 ```
