@@ -127,4 +127,4 @@ S.I.E.S. (Nerul) · Expected Graduation: 2028
 ✓ Thanks for stopping by — open to Data Analytics Internship opportunities 👋
 ```
 
-[![Profile Views](https://komarev.com/ghpvc/?username=huzaifa1183&color=2EAD33&style=flat-square&label=Profile+Views)](https://github.com/huzaifa1183)****
+[![Profile Views](https://komarev.com/ghpvc/?username=huzaifa1183&color=2EAD33&style=flat-square&label=Profile+Views)](https://github.com/huzaifa1183)
